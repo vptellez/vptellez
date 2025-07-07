@@ -1,8 +1,8 @@
 <h1 align="left">Que tal, soy Victor Téllez</h1>
-<p align="left">Desarrollador Frontend y con conocimientos en Android.</p>
+<p align="left">Desarrollador Sr. Frontend y con conocimientos en Android.</p>
 
-- 👨‍💻 Actualmente estoy trabajando como desarrollador Frontend Senior en [**Lunave Digital**](https://www.lunave.com/)
-- 📝 La mayor parte de lo que escribo lo encuentras en [**medium/@vptellez**](https://medium.com/@vptellez) y proyectos personales están en mi web personal [**vptellez.com**](https://www.vptellez.com/)
+<!-- - 👨‍💻 Actualmente estoy trabajando como desarrollador Frontend Senior en [**Lunave Digital**](https://www.lunave.com/) -->
+- 📝 La mayor parte de lo que escribo lo encuentras en [**medium/@vptellez**](https://medium.com/@vptellez) y mis colaboraciones y/o proyectos personales están en mi web personal [**vptellez.com**](https://www.vptellez.com/)
 - 📫 Puedes ponerte en contacto conmigo en [**LinkedIn**](https://linkedin.com/in/vptellez)
 
 <p align="left">Skills:</p>
