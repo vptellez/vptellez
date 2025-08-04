@@ -2,6 +2,7 @@
 <p align="left">Desarrollador Sr. Frontend y con conocimientos en Android.</p>
 
 <!-- - 👨‍💻 Actualmente estoy trabajando como desarrollador Frontend Senior en [**Lunave Digital**](https://www.lunave.com/) -->
+- 🖥️ Actualmente, termine una participación en el nuevo sitio web oficial de [**Mitsubishi Motors México**](https://www.mitsubishi-motors.mx/), desarrollando desde cero una nueva plataforma moderna, escalable, optimizada para SEO y performance, junto con Lunave Digital.
 - 📝 La mayor parte de lo que escribo lo encuentras en [**medium/@vptellez**](https://medium.com/@vptellez) y mis colaboraciones y/o proyectos personales están en mi web personal [**vptellez.com**](https://www.vptellez.com/)
 - 📫 Puedes ponerte en contacto conmigo en [**LinkedIn**](https://linkedin.com/in/vptellez)
 
